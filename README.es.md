@@ -6,6 +6,8 @@ Crea una batalla naval usando Vanilla.js
 
 ![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
 
+<onlyfor saas="false" withBanner="false">
+ 
 ## 🌱  Cómo iniciar este proyecto
 
  No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
@@ -17,6 +19,8 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
