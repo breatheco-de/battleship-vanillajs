@@ -18,7 +18,7 @@ a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here
 
 b) If working locally type the following command from your command line: 
 ```sh
-$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+$ git clone https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
