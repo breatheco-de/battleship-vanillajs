@@ -10,15 +10,17 @@ Crea una batalla naval usando Vanilla.js
  
 ## 🌱  Cómo iniciar este proyecto
 
- No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
+Recomendamos abrir la plantilla `vanillajs-hello`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
-```sh
-git clone  https://github.com/4GeeksAcademy/vanillajs-hello
+Este es el repositorio que necesitas abrir o clonar:  
+
 ```
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+https://github.com/4GeeksAcademy/vanillajs-hello  
+```  
+
+💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
 </onlyfor>
 
